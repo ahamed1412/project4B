@@ -42,7 +42,7 @@ Build an OTT-ready video delivery pipeline that:
 
 | Image | Description |
 |-------|-------------|
-| `mediaconvert_job_output.png` | MediaConvert job completed with ABR rendition output |
+| `[mediaconvert_job_output.png] Screenshot/mediaconvert_job_output.png` | MediaConvert job completed with ABR rendition output |
 | `bucket_policy_abr.png` | Bucket policy allowing CloudFront access via OAC |
 | `cloudfront_oac_config.png` | CloudFront OAC setup with "Sign Requests" enabled |
 | `index_html_success.png` | Working HTML5 Video.js player streaming HLS |
@@ -55,9 +55,9 @@ _All screenshots are located inside `/screenshots/` folder in this repo._
 
 ## 🧪 Bitrate Switching Test
 
-✅ Enabled **DevTools → Network Throttling (Fast 3G)**  
+✅ Enabled **DevTools → Network Throttling (Fast 3G)**
 ✅ Validated real-time switching from 720p → 480p → 360p  
 ---
 
-
+ Url https://d24wb5ukanl8mz.cloudfront.net/index.html
 
