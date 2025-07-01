@@ -32,19 +32,12 @@ Create a private video streaming pipeline that delivers multiple quality renditi
 
 ---
 
-## 📸 Screenshots
-
-| Screenshot | Description |
-|------------|-------------|
-| `network_tab_switching.png` | DevTools showing multiple `.m3u8` requests |
-| `cloudfront_settings.png` | CloudFront + OAC configuration |
-| `bucket_policy.png` | Correct S3 permissions with distribution ARN |
-
+## 🔗 Demo Link 
+[Play the Adaptive Stream](https://d24wb5ukanl8mz.cloudfront.net/index.html)
 ---
 
-## 🔗 Demo Link
 
-[Play the Adaptive Stream](https://d24wb5ukanl8mz.cloudfront.net/index.html)
+
 
 
 
